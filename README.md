@@ -53,8 +53,7 @@ SECTION IV: Vehicles
 SECTION V: Time
 
 	5.1 A minimum of one evening per week is to be dedicated to spending time together, with or without guests, as negotiable. “Evening” begins at 6:05 PM.
-		5.1.1 Should one or more weeks pass without the ability to spend an evening together,
-unused evenings will accrue and may be exercised indefinitely in the future.
+		5.1.1 Should one or more weeks pass without the ability to spend an evening together, unused evenings will accrue and may be exercised indefinitely in the future.
 	5.2 A minimum of one morning per week is to be dedicated to spending time together in a leisurely manner. “Morning” ends at 12:01 PM.
 		5.2.1 Should one or more weeks pass without the ability to spend a morning together, unused mornings will not accrue.
 			5.2.1.1 More than three consecutive weeks without opportunity to spend a morning together will automatically force the Couple to take a vacation together lasting a minimum of three days.
@@ -83,8 +82,7 @@ SECTION VII: Best Self
 		7.2.2 Bodily odors will be minimized through a combination of bathing, deodorizing, and perfumes.
 		7.2.3 The Couple will keep fingernails clean and neatly trimmed. Nail length will not exceed 1/4 inch, as measured from the tip of the finger. The Couple will trim nails shorter if the other determines that the longer length detracts from the Couple’s image, presents a safety concern, or interferes with the performance of duties.
 		7.2.4 REMOVED.
-		7.2.5 The Couple will maintain an attractive appearance in regards to hair cut, length, color,
-and styling.
+		7.2.5 The Couple will maintain an attractive appearance in regards to hair cut, length, color, and styling.
 	7.3 The couple will wear attractive and professional clothing.
 		7.3.1 Clothes will be clean and free of stains and tears.
 		7.3.2 Boyfriend will wear only clothing purchased from Brooks Brothers.
@@ -92,8 +90,7 @@ and styling.
 			7.3.2.2 Apparel of associated companies, affiliations, or projects may be worn for promotional purposes.
 		7.3.3 Girlfriend must acquire and incorporate into her wardrobe one item of Brooks Brothers clothing, shoes or accessories every three months.
 		7.3.4 Neither party may wear flip-flops, nor sweatpants, in one another’s presence.
-			7.3.4.1 Exceptions include: when assigned flip-flops (spa, etc.), safety/emergency
-(Die Hard, etc.).
+			7.3.4.1 Exceptions include: when assigned flip-flops (spa, etc.), safety/emergency (Die Hard, etc.).
 		7.3.5 The Couple will embrace the styling, ethos (“Just Do It”, “Bo Knows”, “Black Mamba”, “Write The Future”, “Give Me The Rock”, “Just Ball Out”, “Live Strong”, “Make It Count” and “Why Drive When You Can Fly”), and apparel of Nike Inc. (NYSE: NIKE) for all athletic activities.
 		7.4 The couple must pursue third party analysis of their personalities, body function and subconscious nature in order to improve their understanding of themselves, and one another.
 			7.4.1 Results of Boyfriend’s analysis will be reported to the shareholders.
@@ -141,21 +138,16 @@ SECTION XI: Contract Termination and Death
 	11.1 The Couple will provide Shareholders one month notice of their intent to terminate the Relationship, with the exception below. Notice must be given via S10S.org forum or KmikeyM Mailing List. Should both members of the Couple agree, they may at their discretion not require the Relationship to remain intact during the notice period.
 	11.2 The Relationship may be terminated by either member with no notice period if at any time the other commits a serious or persistent breach of this agreement or are guilty of any serious misconduct or willful neglect in performing their duties. Shareholders shall be notified of termination under such conditions within one month.
 	11.3 The couple may preemptively terminate this Relationship with no repercussions in the event that the Couple chooses to enter into a legally-sanctioned marriage contract.
-		11.3.1 The Couple must obtain shareholder approval to enter into a legally-sanctioned
-marriage contract.
+		11.3.1 The Couple must obtain shareholder approval to enter into a legally-sanctioned marriage contract.
 	11.4 Should either party suffer atrocious disfigurement (defined as an appearance that causes the other party to recoil or flinch in fear or disgust), complete or severe amnesia, or injury resulting in a vegetative state, the contract is nullified and any ongoing relationship will be considered “at-will”.
 		11.4.1 Should both parties be rendered incapable of decision making the Shareholders may decide if the Relationship remains in place.
-	11.5 Upon a Partner's death the remaining Partner will enter a period of “Grieving” for length of 3
-months.
-		11.5.1 While in the period of “Grieving”, the still living party must wear primarily black and
-have no sexual relations with other persons.
-		11.5.2 Should the Couple die in the same event, the burden of Grieving will be passed on to
-the Shareholders, but the period will be reduced to 30 days.
+	11.5 Upon a Partner's death the remaining Partner will enter a period of “Grieving” for length of 3 months.
+		11.5.1 While in the period of “Grieving”, the still living party must wear primarily black and have no sexual relations with other persons.
+		11.5.2 Should the Couple die in the same event, the burden of Grieving will be passed on to the Shareholders, but the period will be reduced to 30 days.
 	11.6 Should the Couple end the Relationship, willingly or unwillingly, the former couple shall not have a romantic or sexual relationship within 1 degree of Friendship of the other for a period of six (6) months.
 	11.7 Should the couple end the Relationship, willingly or unwillingly, the former couple shall not talk negatively about the other for a period of three (3) months.
 
-BOYFRIEND
-Kenneth Michael Merrill
+BOYFRIEND Kenneth Michael Merrill
 ____________________________________________
 GIRLFRIEND Marijke Jean Dixon
 ___________________________________________
