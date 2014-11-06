@@ -103,31 +103,24 @@ SECTION VIII: Pet Ownership
 
 	8.1 The Couple has the right to obtain up to 3 pets* (dog, cat, other**) according to the following combinations:
 
-DOG, CAT, OTHER
-DOG | DOG
-NO
-YES
-YES
-DOG | CAT
-YES
-YES
-YES
-DOG | OTHER
-YES
-YES
-YES
-CAT | CAT
-YES
-NO
-YES
-CAT | OTHER
-YES
-YES
-YES
-OTHER | OTHER
-YES
-YES
-NO
+DOG + DOG + DOG: NO
+DOG + DOG + CAT: YES
+DOG + DOG + OTHER: YES
+DOG + CAT + DOG: YES
+DOG + CAT + CAT: YES
+DOG + CAT + OTHER :YES
+DOG + OTHER + DOG: YES
+DOG + OTHER + CAT: YES
+DOG + OTHER + OTHER: YES
+CAT + CAT + DOG: YES
+CAT + CAT + CAT: NO
+CAT + CAT + OTHER: YES
+CAT + OTHER + DOG: YES
+CAT + OTHER + CAT: YES
+CAT + OTHER + OTHER: YES
+OTHER + OTHER + DOG: YES
+OTHER + OTHER + CAT: YES
+OTHER + OTHER + OTHER: NO
 
 *Animals acquired for business ventures or research and development are not considered pets.
 **Excludes spiders, scorpions, tarantulas, ferrets, pigs, goats, bats, reptiles (excepting turtles), rabbits, hamsters and undomesticated animals.
@@ -135,6 +128,7 @@ NO
 	8.3 The division of emergency pet care costs will be negotiated as emergencies arise.
 
 SECTION IX: Vacation Policy
+
 	9.1 Each year the Couple will take one shareholder-influenced vacation.
 	9.2 Jointly attended family vacations with shared accommodations shall not exceed 4 contiguous days of family exposure. Family vacations involving overseas travel and/or separate accommodations shall not exceed 7 contiguous days of family exposure.
 
@@ -144,26 +138,22 @@ SECTION X: Dispute and Arbitration
 
 SECTION XI: Contract Termination and Death
 
-11.1 The Couple will provide Shareholders one month notice of their intent to terminate the Relationship, with the exception below. Notice must be given via S10S.org forum or KmikeyM Mailing List. Should both members of the Couple agree, they may at their discretion not require the Relationship to remain intact during the notice period.
-11.2 The Relationship may be terminated by either member with no notice period if at any time the other commits a serious or persistent breach of this agreement or are guilty of any serious misconduct or willful neglect in performing their duties. Shareholders shall be notified of termination under such conditions within one month.
-11.3 The couple may preemptively terminate this Relationship with no repercussions in the event that the Couple chooses to enter into a legally-sanctioned marriage contract.
-11.3.1 The Couple must obtain shareholder approval to enter into a legally-sanctioned
+	11.1 The Couple will provide Shareholders one month notice of their intent to terminate the Relationship, with the exception below. Notice must be given via S10S.org forum or KmikeyM Mailing List. Should both members of the Couple agree, they may at their discretion not require the Relationship to remain intact during the notice period.
+	11.2 The Relationship may be terminated by either member with no notice period if at any time the other commits a serious or persistent breach of this agreement or are guilty of any serious misconduct or willful neglect in performing their duties. Shareholders shall be notified of termination under such conditions within one month.
+	11.3 The couple may preemptively terminate this Relationship with no repercussions in the event that the Couple chooses to enter into a legally-sanctioned marriage contract.
+		11.3.1 The Couple must obtain shareholder approval to enter into a legally-sanctioned
 marriage contract.
-11.4 Should either party suffer atrocious disfigurement (defined as an appearance that causes the other party to recoil or flinch in fear or disgust), complete or severe amnesia, or injury resulting in a vegetative state, the contract is nullified and any ongoing relationship will be considered “at-will”.
-11.4.1 Should both parties be rendered incapable of decision making the Shareholders may decide if the Relationship remains in place.
-
-11.5 Upon a Partner's death the remaining Partner will enter a period of “Grieving” for length of 3
+	11.4 Should either party suffer atrocious disfigurement (defined as an appearance that causes the other party to recoil or flinch in fear or disgust), complete or severe amnesia, or injury resulting in a vegetative state, the contract is nullified and any ongoing relationship will be considered “at-will”.
+		11.4.1 Should both parties be rendered incapable of decision making the Shareholders may decide if the Relationship remains in place.
+	11.5 Upon a Partner's death the remaining Partner will enter a period of “Grieving” for length of 3
 months.
-11.5.1 While in the period of “Grieving”, the still living party must wear primarily black and
+		11.5.1 While in the period of “Grieving”, the still living party must wear primarily black and
 have no sexual relations with other persons.
-11.5.2 Should the Couple die in the same event, the burden of Grieving will be passed on to
+		11.5.2 Should the Couple die in the same event, the burden of Grieving will be passed on to
 the Shareholders, but the period will be reduced to 30 days.
-11.6 Should the Couple end the Relationship, willingly or unwillingly, the former couple shall not
-have a romantic or sexual relationship within 1 degree of Friendship of the other for a period of six
-(6) months.
-Should the couple end the Relationship, willingly or unwillingly, the former couple shall not
-talk negatively about the other for a period of three (3) months.
-11.7
+	11.6 Should the Couple end the Relationship, willingly or unwillingly, the former couple shall not have a romantic or sexual relationship within 1 degree of Friendship of the other for a period of six (6) months.
+	11.7 Should the couple end the Relationship, willingly or unwillingly, the former couple shall not talk negatively about the other for a period of three (3) months.
+
 BOYFRIEND
 Kenneth Michael Merrill
 ____________________________________________
